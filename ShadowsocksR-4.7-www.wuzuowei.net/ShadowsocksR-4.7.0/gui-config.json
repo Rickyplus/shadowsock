@@ -1,0 +1,58 @@
+{
+	"configs" : [
+		{
+			"remarks" : "coin_test",
+			"id" : "671AB9F3FF7EB7AD76B544729D80FBFD",
+			"server" : "47.75.1.25",
+			"server_port" : 12306,
+			"server_udp_port" : 0,
+			"password" : "coin_test",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "Y29pbl90ZXN0",
+			"group" : "coin_test",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : false,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "yvWESeXhDjZU9dlR_94M",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 3,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 0,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : null,
+	"proxyPort" : 0,
+	"proxyAuthUser" : null,
+	"proxyAuthPass" : null,
+	"proxyUserAgent" : null,
+	"authUser" : null,
+	"authPass" : null,
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}
